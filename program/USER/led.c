@@ -37,11 +37,9 @@ void LED_GPIO_Config(void)
 	GPIO_SetBits(GPIOA, GPIO_Pin_10 | GPIO_Pin_11 | GPIO_Pin_12 | GPIO_Pin_15 );	  
 }
 
-<<<<<<< HEAD
-//test  hhhhhhh    FFFFF   test  
-=======
-//test  hhhhhhh    FFFFF   
->>>>>>> ae1cfcb7c0e4e500841d2ea6d2bc111dbdc5eb1c
+
+//2023    
+
 
 
 
